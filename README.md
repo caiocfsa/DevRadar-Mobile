@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://github.com/caiocfsa/DevRadar-Mobile/blob/master/devradar.png" width="100%">
+  <img alt="Frontend" src="https://github.com/caiocfsa/DevRadar-Mobile/blob/master/1.jpg" width="100%">
 </p>
 
 ## :rocket: Tecnologias
